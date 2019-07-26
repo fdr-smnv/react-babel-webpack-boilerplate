@@ -1,0 +1,13 @@
+{
+  "name": "react-babel-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "This is easy to setup React-Babel-Webpack boilerplate. Use it to quickly bootstrap new React projects without wasting time on repetitive code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
