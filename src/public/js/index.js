@@ -1,5 +1,5 @@
-const React = require('react');
-const ReactDom = require('react-dom');
+import React from 'react'
+import ReactDOM from 'react-dom'
 
 import '../css/index.css'
 
