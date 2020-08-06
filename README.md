@@ -1,11 +1,21 @@
+## RBWB
+
 This is easy to setup React-Babel-Webpack boilerplate. Use it to quickly bootstrap new React projects without wasting time on repetitive code.
+
+---
 
 ## Webpack configuration:
 
+#### Rules:
 * ( .js, .jsx ) —  [ babel-loader, @babel/preset-react ]
 * ( .css ) — [ style-loader, css-loader ]
 * ( .png, .svg, .jpg, .gif ) — [ file-loader ]
 
+#### Plugins:
+* webpack-dev-server
+* html-webpack-plugin
+
+---
 
 ## How to use:
 
